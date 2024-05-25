@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I am currently on a career transition to Quality Analysis but without leaving my past as an Earth Scientist.</h2>
+<h2 align="left">I am currently on a career transition to QA - Quality Analysis but without leaving my past as an Earth Scientist and all the coding knowledge I obtained throughout my studying years.</h2>
 
 ###
 
@@ -26,6 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+</div>
+
+###
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
